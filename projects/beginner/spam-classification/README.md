@@ -1,10 +1,10 @@
-# Spam Classification
-This project builds a classifier to detect spam emails or messages.
+# Beginner
+This directory contains beginner-level machine learning projects to build fundamental skills.
 
-## Project Overview
-- Dataset: SMS Spam Collection or similar email dataset
-- Key techniques: Text preprocessing, feature extraction, classification
-- Evaluation metrics: Accuracy, precision, recall, F1-score
+## Projects
+- housing-price-prediction: Regression techniques for real estate pricing
+- spam-classification: Binary classification for message filtering
+- customer-segmentation: Clustering techniques for customer analysis
 
 ## Progress Tracker
 - [ ] Started
